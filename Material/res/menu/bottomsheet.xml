@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/gmail"
+        android:icon="@drawable/gmail"
+        android:title="Gmail"/>
+    <item
+        android:id="@+id/hangoput"
+        android:icon="@drawable/hangout"
+        android:title="Hangout"/>
+    <item
+        android:id="@+id/androidos"
+        android:icon="@drawable/androidos"
+        android:title="Android"/>
+    <item
+        android:id="@+id/contacts"
+        android:icon="@drawable/contacts"
+        android:title="Contacts"/>
+
+</menu>

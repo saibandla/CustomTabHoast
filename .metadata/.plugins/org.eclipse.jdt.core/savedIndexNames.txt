@@ -1,0 +1,10 @@
+INDEX VERSION 1.127+D:\POCS\.metadata\.plugins\org.eclipse.jdt.core
+405933191.index
+1284074322.index
+2458218086.index
+3193581977.index
+2157853732.index
+2301400144.index
+2784518217.index
+4006855493.index
+733090852.index
